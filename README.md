@@ -1,2 +1,2 @@
 # BUBBLE_GAMES_JENNY
-Bubblegame
+Bubblegame Project Showcase
